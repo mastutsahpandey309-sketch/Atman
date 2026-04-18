@@ -1,0 +1,2 @@
+-keep class com.atman.** { *; }
+-keep class com.google.mediapipe.** { *; }
